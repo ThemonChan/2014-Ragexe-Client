@@ -1,0 +1,31 @@
+8 Custom Window Title
+9 Disable 1rag1 type parameters (Recommended)
+13 Disable Ragexe Filename Check (Recommended)
+14 Disable Hallucination Wavy Screen (Recommended)
+15 Disable HShield (Recommended)
+24 Fix Camera Angles (Recommended)
+28 Increase Headgear ViewID
+32 Increase Zoom Out Max
+33 Always Call SelectKoreaClientInfo() (Recommended)
+34 Enable /showname (Recommended)
+36 Read msgstringtable.txt (Recommended)
+37 Read questid2display.txt (Recommended)
+38 Remove Gravity Ads (Recommended)
+39 Remove Gravity Logo (Recommended)
+40 Restore Login Window (Recommended)
+41 Disable Nagle Algorithm (Recommended)
+42 Skip Resurrection Buttons
+44 Translate Client (Recommended)
+45 Use Custom Aura Sprites
+47 Use Ragnarok Icon
+48 Use Plain Text Descriptions (Recommended)
+49 Enable Multiple GRFs (Recommended)
+61 Disable Packet Encryption (Recommended)
+64 @ Bug Fix (Recommended)
+68 Enable 64k Hairstyle
+71 Ignore Missing File Error
+72 Ignore Missing Palette Error
+73 Remove Hourly Announce (Recommended)
+204 Increase Attack Display
+84 Remove Serial Display (Recommended)
+97 Cancel to Login Window (Recommended)
